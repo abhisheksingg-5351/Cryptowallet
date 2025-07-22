@@ -15,6 +15,18 @@ A multi-chain cryptocurrency wallet built with **React** that supports **Ethereu
 - ✅ **Mnemonic recovery** (stored locally for demo — not secure for production)
 
 ---
+# 🔐 Simple Crypto Wallet
+
+A multi-chain cryptocurrency wallet built with **React** that supports **Ethereum**, **Bitcoin**, and **Solana** using a secure 12-word mnemonic phrase. Send, receive, and view balances all from a single dashboard.
+
+---
+
+### ✅ Live Demo
+
+🚀 [Click here to try the live app](https://sweet-cendol-93d3f7.netlify.app/)
+
+---
+
 
 ## 📂 Project Structure
 
